@@ -2,6 +2,9 @@
 
 This app was built just to try out **SolidJS** and see how it compares to frameworks like React or Svelte. It's a small, self-contained experiment focused on learning rather than production-level features.
 
+![screenshot](./screenshot.png)
+
+
 ## Features
 
 - Built with **SolidJS**
